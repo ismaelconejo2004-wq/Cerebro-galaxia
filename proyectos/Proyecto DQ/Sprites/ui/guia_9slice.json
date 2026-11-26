@@ -1,0 +1,429 @@
+{
+ "marcos/panel_<tema>.png": {
+  "size": [
+   32,
+   32
+  ],
+  "insets_lrtb": [
+   6,
+   6,
+   6,
+   6
+  ]
+ },
+ "marcos/modal_<tema>.png": {
+  "size": [
+   40,
+   40
+  ],
+  "insets_lrtb": [
+   10,
+   10,
+   10,
+   10
+  ]
+ },
+ "marcos/panel_lateral_<tema>.png": {
+  "size": [
+   24,
+   24
+  ],
+  "insets_lrtb": [
+   5,
+   5,
+   5,
+   5
+  ]
+ },
+ "marcos/tooltip_<tema>.png": {
+  "size": [
+   24,
+   24
+  ],
+  "insets_lrtb": [
+   5,
+   5,
+   5,
+   5
+  ]
+ },
+ "marcos/retrato_marco_<tema>.png": {
+  "size": [
+   48,
+   48
+  ],
+  "insets_lrtb": [
+   8,
+   8,
+   8,
+   8
+  ]
+ },
+ "marcos/cinta_titulo_<tema>.png": {
+  "size": [
+   52,
+   20
+  ],
+  "insets_lrtb": [
+   10,
+   0,
+   10,
+   0
+  ]
+ },
+ "botones/boton_normal_<tema>.png": {
+  "size": [
+   32,
+   16
+  ],
+  "insets_lrtb": [
+   5,
+   5,
+   5,
+   5
+  ]
+ },
+ "botones/boton_hover_<tema>.png": {
+  "size": [
+   32,
+   16
+  ],
+  "insets_lrtb": [
+   5,
+   5,
+   5,
+   5
+  ]
+ },
+ "botones/boton_pressed_<tema>.png": {
+  "size": [
+   32,
+   16
+  ],
+  "insets_lrtb": [
+   5,
+   5,
+   5,
+   5
+  ]
+ },
+ "botones/boton_disabled_<tema>.png": {
+  "size": [
+   32,
+   16
+  ],
+  "insets_lrtb": [
+   5,
+   5,
+   5,
+   5
+  ]
+ },
+ "botones/boton_primario_normal_<tema>.png": {
+  "size": [
+   32,
+   16
+  ],
+  "insets_lrtb": [
+   5,
+   5,
+   5,
+   5
+  ]
+ },
+ "botones/boton_primario_hover_<tema>.png": {
+  "size": [
+   32,
+   16
+  ],
+  "insets_lrtb": [
+   5,
+   5,
+   5,
+   5
+  ]
+ },
+ "botones/boton_primario_pressed_<tema>.png": {
+  "size": [
+   32,
+   16
+  ],
+  "insets_lrtb": [
+   5,
+   5,
+   5,
+   5
+  ]
+ },
+ "botones/eleccion_normal_<tema>.png": {
+  "size": [
+   48,
+   24
+  ],
+  "insets_lrtb": [
+   8,
+   8,
+   8,
+   8
+  ]
+ },
+ "botones/eleccion_hover_<tema>.png": {
+  "size": [
+   48,
+   24
+  ],
+  "insets_lrtb": [
+   8,
+   8,
+   8,
+   8
+  ]
+ },
+ "botones/eleccion_selected_<tema>.png": {
+  "size": [
+   48,
+   24
+  ],
+  "insets_lrtb": [
+   8,
+   8,
+   8,
+   8
+  ]
+ },
+ "botones/eleccion_disabled_<tema>.png": {
+  "size": [
+   48,
+   24
+  ],
+  "insets_lrtb": [
+   8,
+   8,
+   8,
+   8
+  ]
+ },
+ "botones/eleccion_prueba_<tema>.png": {
+  "size": [
+   48,
+   24
+  ],
+  "insets_lrtb": [
+   8,
+   8,
+   8,
+   8
+  ]
+ },
+ "botones/interruptor_off_<tema>.png": {
+  "size": [
+   24,
+   12
+  ],
+  "insets_lrtb": [
+   0,
+   0,
+   0,
+   0
+  ]
+ },
+ "botones/interruptor_on_<tema>.png": {
+  "size": [
+   24,
+   12
+  ],
+  "insets_lrtb": [
+   0,
+   0,
+   0,
+   0
+  ]
+ },
+ "botones/tecla_1_<tema>.png": {
+  "size": [
+   14,
+   14
+  ],
+  "insets_lrtb": [
+   0,
+   0,
+   0,
+   0
+  ]
+ },
+ "botones/tecla_2_<tema>.png": {
+  "size": [
+   14,
+   14
+  ],
+  "insets_lrtb": [
+   0,
+   0,
+   0,
+   0
+  ]
+ },
+ "botones/tecla_3_<tema>.png": {
+  "size": [
+   14,
+   14
+  ],
+  "insets_lrtb": [
+   0,
+   0,
+   0,
+   0
+  ]
+ },
+ "botones/tecla_4_<tema>.png": {
+  "size": [
+   14,
+   14
+  ],
+  "insets_lrtb": [
+   0,
+   0,
+   0,
+   0
+  ]
+ },
+ "botones/scroll_pista_<tema>.png": {
+  "size": [
+   8,
+   24
+  ],
+  "insets_lrtb": [
+   3,
+   3,
+   3,
+   3
+  ]
+ },
+ "botones/scroll_tirador_<tema>.png": {
+  "size": [
+   8,
+   16
+  ],
+  "insets_lrtb": [
+   3,
+   3,
+   3,
+   3
+  ]
+ },
+ "barras/barra_marco_<tema>.png": {
+  "size": [
+   40,
+   8
+  ],
+  "insets_lrtb": [
+   3,
+   0,
+   3,
+   0
+  ]
+ },
+ "barras/relleno_<medidor>.png": {
+  "size": [
+   8,
+   6
+  ],
+  "uso": "repetir en horizontal; colocar a 1px dentro del marco"
+ },
+ "inventario/casilla_vacio_<tema>.png": {
+  "size": [
+   28,
+   28
+  ],
+  "insets_lrtb": [
+   0,
+   0,
+   0,
+   0
+  ]
+ },
+ "inventario/casilla_normal_<tema>.png": {
+  "size": [
+   28,
+   28
+  ],
+  "insets_lrtb": [
+   0,
+   0,
+   0,
+   0
+  ]
+ },
+ "inventario/casilla_hover_<tema>.png": {
+  "size": [
+   28,
+   28
+  ],
+  "insets_lrtb": [
+   0,
+   0,
+   0,
+   0
+  ]
+ },
+ "inventario/casilla_seleccionado_<tema>.png": {
+  "size": [
+   28,
+   28
+  ],
+  "insets_lrtb": [
+   0,
+   0,
+   0,
+   0
+  ]
+ },
+ "inventario/insignia_cantidad_<tema>.png": {
+  "size": [
+   14,
+   10
+  ],
+  "insets_lrtb": [
+   4,
+   4,
+   4,
+   4
+  ]
+ },
+ "adornos/divisor_<tema>.png": {
+  "size": [
+   68,
+   11
+  ],
+  "insets_lrtb": [
+   26,
+   0,
+   26,
+   0
+  ]
+ },
+ "adornos/esquina_ornamento_<tema>.png": {
+  "size": [
+   16,
+   16
+  ],
+  "insets_lrtb": [
+   0,
+   0,
+   0,
+   0
+  ]
+ },
+ "adornos/fondo_pergamino_tile_<tema>.png": {
+  "size": [
+   32,
+   32
+  ],
+  "insets_lrtb": [
+   0,
+   0,
+   0,
+   0
+  ]
+ }
+}
